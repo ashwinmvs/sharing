@@ -1,0 +1,543 @@
+Intent,Question
+intro,what is a mutual fund
+intro,tell me about mutual funds
+intro,tell me about mutual fund
+intro,give information about mutual funds
+intro,what are mutual funds
+intro,explain about mutual fund
+intro,What is MF
+intro,what do you mean by mutual fund
+intro,What is the concept of a Mutual Fund
+intro,Explain Mutual Fund
+intro,How is a mutual fund set up?
+intro,Define Mutual Fund
+intro,What advantages do mutual funds have over individual securities?
+intro,How does the mutual fund industry work?
+intro,What is a mutual fund and explain the process of investment in a mutual fund?
+intro,Mutual Fund Price of a 'unit'?
+intro,"Why do we need mutual fund?
+"
+intro,"What is mutual fund & SIP?
+"
+intro,How Are Mutual Funds Classified?
+intro,How Are Mutual Funds Classified Geographically?
+intro,HOW DOES A MUTUAL FUND OPERATE?
+intro,Benefits of Mutual Funds
+intro,How Are Mutual Funds Classified Functionally?
+intro,concept of mutual funds
+intro,What is Mutual Fund
+define,Which mutual fund is called balanced mutual fund?
+define,Define Balanced Funds
+define,What is an balanced fund
+define,What is a balanced fund
+intro,How mutual funds work?
+define,What are balanced funds
+complaints,What is SEBI Complaints Redress System (SCORES)?
+concept,How does the concept of compounding apply to mutual funds?
+concept,What is the compounding period of a mutual fund?
+NAV,How often is NAV of the Mutual fund declared
+NAV,how more times nav of the mutual fund declared 
+choose,What features do I check before investing in a mutual Fund
+choose,How to choose a scheme for investment from a number of schemes available?
+choose,how to select fund
+Other,"Where can I check whether there is any unclaimed amount (dividend/redemption) in my
+name lying with a mutual fund?"
+Other,Are there penalties if I choose to withdraw earlier?
+Other,How do mutual fund trades clear and settle?
+complaints,What is SEBI Complaints Redress System?
+complaints,"IF I HAVE ANY COMPLAINT OR GRIEVANCE RELATING TO MY MUTUAL FUND INVESTMENT, HOW SHOULD I GET IT RESOLVED?"
+complaints,How can mutual fund investors redress their complaints?
+CAS,What other details will be included under a CAS? 
+choose,How pick or choose a mutual fund
+choose,How do I choose a Fund
+CAS,What is a consolidated account statement?
+CAS,Is there a charge for receiving the CAS?
+CAS,When will I start receiving the CAS? 
+CAS,"If I have updated my address, will it be included in CAS?"
+CAS,I have updated different addresses across Mutual Funds. Where will the CAS be sent? 
+CAS,What if I find some of the folios missing in my CAS? 
+amc,What is Asset Management Company
+amc,Who are Asset Management Companies
+amc,What is an AMC
+amc,Define AMC
+amc,What do AMCs do
+bdetails,What is the process of changing the bank details
+bdetails,How can I change my bank details
+bdetails,How can I change my bank mandate
+bdetails,What is the procedure to change my bank details
+intro,what are mutual fund 
+intro,what are mutual funds 
+intro,what are mutual fund
+intro,What Is an Unregistered Mutual Fund?
+define,What are diversified funds
+define,Define Diversified Funds
+define,What is an diversified fund
+define,What is a diversified fund
+define, Can the NAV of a debt fund fall?
+define,What are debt funds
+define,Define Debt Funds
+define,What are Debt Funds?
+define,Can I invest a lump sum in debt mutual funds?
+define,What is an debt fund
+define,What is a debt fund
+define,What are income funds
+define,Define Income Funds
+define,What is an income fund
+demat,Do mutual funds require a demat account?
+demat,"Can existing demat account be used to convert the Mutual Fund Units
+in dematerialised form ?"
+demat,How can I access all my mutual funds at one place?
+demat,"Can I invest in MF direct plan through Demat account?
+"
+demat,Is a Demat account required to purchase ELSS?
+demat,"Is a Demat account necessary for buying mutual funds?
+"
+demat,"In case I do not have a demat account, What should I do ?"
+demat,I wish to redeem the units which are in my demat account. How can I do that? 
+demat,Can I hold units in my demat account in all schemes? 
+diff,What is the difference between mutual funds and share market?
+diff,How are mutual funds different from Portfolio Management Schemes?
+diff,What is difference between equity mutual fund and debt mutual fund?
+diff,Is there any difference between ELSS mutual funds and equity diversified mutual funds?
+diff,Are SIPs a better option than lump-sum mutual funds?
+diff,What is the difference between NAV and AUM in mutual funds?
+diff,Is it beneficial to switch regular mutual funds to a direct mutual fund?
+diff,What is the difference between KYC and eKYC
+diff,What is the difference between HDFC Swing STP and HDFC STP?
+diff,What is the difference between Equity and Debt fund?
+dividends,Do mutual funds pay dividends?
+dividends,What is a dividend reinvestment plan?
+concept,How Does One Calculate The Expense Ratio For A Fund?
+top_n,Which Mutual fund gives very high monthly dividends ?
+kyc,What are the documents required to invest in a 
+kyc,What proofs do we need to submit for investing in a 
+kyc,What documents do I need to submit for investing in a 
+kyc,What is the documentation required for investing in a 
+kyc,What docs are required for investing in 
+kyc,documents which are required for mutual funds
+kyc,What documents are provided as proof of my investment in Mutual Funds?
+define,What are equity funds
+define,Define Equity Funds
+define,What is an equity fund
+define,What are growth funds
+define,What is a growth fund
+load,What is Exit Load
+load,Define Exit Load
+ELSS,How to start an ELSS account?
+top_n,Which ELSS tax saving mutual fund is best to invest in India?
+top_n,Which ELSS (Tax Saver) Mutual Fund is the best?
+ELSS, How much one should invest in ELSS?
+ELSS,Is a Demat account required to purchase ELSS?
+lock,What is the lock-in period for ELSS?
+define,What is an ELSS
+ELSS,Why invest in ELSS
+ELSS, Which fund houses offer ELSS? 
+ELSS,Can an investor combine ELSS with SIP?
+ELSS,What are the other benefits of ELSS fund?
+load,What is Entry Load
+load,Define Entry Load
+exit,Bye
+exit,exit
+exit,good bye
+exit,gd by
+exit,very gd bye
+exit,very good bye
+exit,see you
+exit,see you again
+exit,tata
+exit,bye bye
+exit,see you next time
+exit,I want to exit 
+exit,I want to end the conversasion
+exit,hastala vista
+fee,Do I need to pay anything to the distributor who sells me mutual fund schemes?
+fee,What Is An Asset Management Fee?
+fee,"How does an investor know how much commission the distributor is earning and what is
+the TER being charged in a scheme?"
+fee,Will transaction charges be applicable for all schemes? 
+fee,I wish to switch my existing investment into a new scheme. Will transaction charges be payable by me?
+fee,Are the online investments in mutual funds subject to any charges or fees?
+fee,I wish to redeem my existing investments. Do I have to pay transaction charges?
+fee,What are typical trust fund management fees?
+define,What are gilt funds
+define,Define Gilt Funds
+define,What is an gilt fund
+define,What is a gilt fund
+choose,Which mutual fund is safe to invest?
+define,What are hedge funds
+define,Define Hedge Funds
+define,What is an hedge fund
+define,What is a hedge fund
+define,Define Hedge Funds?
+define,What are index funds
+define,Define Index Funds
+define,What is an index fund
+define,What is a index fund
+Investment," What is the minimum amount of investment?
+"
+Investment,"If mutual fund scheme is wound up, what happens to money invested?"
+Investment,Is It a Good Idea to Buy Mutual Funds From Banks?
+Investment,Do mutual funds pay interest?
+Investment,Can I invest in Cash?
+Investment,Why do mutual funds require minimum investments?
+Investment,How can I invest in Mutual Funds Online?
+Investment,Won’t I need a large amount to invest in Mutual Funds?
+Investment,"Is it safe to invest in a mutual fund, especially in SIP?"
+Investment,"What is the minimum investment for a mutual fund?
+"
+Investment,Is it the right time to invest in mutual funds?
+Investment,Which mutual funds are good to invest in for the short-term?
+Investment,How do I choose which mutual fund is good to invest?
+Investment,How much should I invest in a mutual fund?
+Investment,How do I invest in direct plans of mutual funds?
+Investment,Is it good to invest in mutual funds and what are the factors to be considered before investing in mutual funds?
+Investment,Can we buy mutual funds through credit card?
+Investment,How do I invest in mutual funds directly without any hidden charges?
+Investment,"Which is the best investment in mutual fund, one-time investment or monthly investment?"
+Investment,What’s the procedure to start investing in Mutual Funds after the KYC Process?
+Investment,What Is Growth Investing ?
+Investment,What Is Passive Investing?
+Investment,What Is Value Investing?
+Investment,WHAT IS THE RIGHT TIME TO SELL OR EXIT A MUTUAL FUND INVESTMENT?
+Investment,How to check where my mutual fund is investing
+Investment,What are the pre-requisites to invest in Mutual funds?
+Investment,Who is eligible to invest in mutual fund?
+Investment,How does the investment process work with mutual funds?
+Investment,Can a mutual fund change the asset allocation while deploying funds of investors?
+Investment,How to invest in a scheme of a mutual fund?
+Investment,Can I really invest in Mutual Funds for free?
+Investment,What are the advantages of investing in Mutual Funds?
+itax,Are equity mutual funds taxable?
+itax,Do mutual funds have tax?
+itax,Can the Joint holders avail tax benefit?
+itax,What are the tax implications of investing in a mutual Fund?
+itax,Can I claim tax benefit? 
+itax,How are mutual funds taxed?
+itax,What will be the Income tax at the time of maturity of my SIP?
+kyc,What is CKYC
+kyc, What are the documents to be submitted for completion of CKYC formalities
+kyc,How can I complete my KYC formalities 
+kyc,how to make a kyc
+kyc,What is KYC?
+kyc,How to do kyc 
+kyc,How to do KYC
+kyc,  What is KYC 
+kyc,How do I make sure that my account is KYC compliant
+kyc, What does KYC mean
+kyc,Why is KYC mandatory
+kyc, What is the KYC Process
+kyc, How is the KYC process done
+kyc,How can I get KYC acknowledgement
+kyc, How can I check the status of KYC
+kyc,How do I know the status of my KYC
+kyc, What is the status of my KYC
+kyc,Where can I check the status of my KYC
+kyc,What website can I use for checking the status of my KYC
+kyc,What website do I visit to check the status of my KYC
+kyc,Which website I use for checking my KYC status
+define,What are liquid funds
+define,What is mean by liquid mutual funds?
+define,Define Liquid Funds
+define,What is an liquid fund
+define,What is a liquid fund
+define,What are money market funds
+define,Define Money market Funds
+define,What is an money market fund
+define,What is a money market fund
+load,What is a Load or no-load Fund?
+load,Can a mutual fund impose fresh load
+load, Is there any load on switching?
+load,"Can a mutual fund increase the load beyond the level mentioned in
+the offer documents?"
+load,What is a Load?
+load,"Can a mutual fund impose fresh load or increase the load beyond the level mentioned in 
+the offer documents? "
+load,What is the difference between a no-load mutual fund and a fund that has no front load?
+lock,Is there any minimum lock-in period for my units?
+lock,What is the lock-in period for ELSS?
+lock,Is there any minimum lock-in period for my units
+lock,Does investing in Mutual Fund require a minimum investment period
+lock,When does a lock – in period come into effect
+lock,What are money market funds
+lock,Does investing in Mutual Fund require a minimum investment period?
+other,Which type of mutual funds are best for 25 years?
+Choose,What are the best long-term mutual funds to invest in?
+choose,What are the best mutual funds for lumpsum investment?
+choose,Which are the best tax saving funds to invest a lump sum?
+choose,What is the best mutual fund for a lump sum investment?
+top_n,What is the best mid cap mutual fund for investment?
+monitor,How can one monitor or track the performance of the mutual fund one has invested in
+monitor,What are the factors that influence the performance of Mutual Funds?
+monitor,What affects the performance of a Mutual Fund?
+monitor,How can I monitor a mutual fund
+monitor,How can I track the performance of a mutual fund
+monitor,Why should I monitor the performance of a fund
+monitor,What is a fund fact sheet
+monitor,Is there a report card for Mutual Fund performances
+monitor,how to track a mutual fund
+monitor,How to know the performance of a mutual fund scheme?
+monitor,Which are best performing mutual funds in midcap or small cap?
+monitor,how to monitor a mutual fund
+nav,What is the monthly NAV of  Funds
+nav,What is the monthly price of  Funds
+nav,What is the monthly rate of  Funds
+nav,Monthly NAV trend of  Funds
+nav,Monthly Price trend of  Funds
+nav,Monthly rate trend of  Funds
+nav,Monthly NAV movement of  Funds
+nav,Monthly Price movement of  Funds
+nav,Monthly rate movement of  Funds
+nav,Is a mutual fund with low NAV better?
+nav,How to choose a mutual fund based on NAV
+nav,Can the NAV of a debt fund fall?
+nav,How will the applicable NAV for liquid funds be calculated?
+nav,How often is the NAV declared?
+nav,Is NAV value important in choosing mutual funds?
+nav,What is Net Asset Value (NAV) of a scheme?
+nav,What is NAV
+nav,How is the applicable NAV determined?
+nav,How is NAV calculated
+nav,What is the calculation for NAV
+nav,Explain calculation for NAV
+nav,Define NAV Calculation
+nav,What is Net Asset Value
+nav,How to find NAV 
+nav,Calculation of NAV
+nominee,Can an investor appoint a nominee for his investment in units of a mutual fund?
+nominee,Can mutual funds have beneficiaries?
+nominee,How to modify nominee?
+nominee,How to cancel nominee?
+nominee,How to add nominee?
+nominee,Can I have multiple nominees for my funds?
+nominee,Can I use nomination facility in the current account?
+nominee,What are the guidelines on nomination ?
+kyc,I am an NRI. Can I invest in mutual funds through Funds?
+kyc,Do NRIs get access to all mutual funds?
+kyc,Can NRI invest in mutual funds in India?
+kyc,Can non-resident Indians invest in mutual funds?
+other,Can You Place a Stop-Loss Order on a Mutual Fund?
+other,When are mutual fund orders executed?
+kyc, Is PAN mandatory
+price,What is purchase (sale) price?
+price,What is sale price?
+nav,How Do You Find Out the Price of a Mutual Fund?
+price,What is repurchase price?
+ratio,Can mutual fund expense ratios be negative?
+ratio,How Does One Calculate The Expense Ratio For A Fund?
+ratio,What is the expense ratio in mutual funds?
+ratio,What is expense ratio?
+redemption,What is redemption Price
+redemption,What are the prerequisites required for placing a successful Instant Redemption request
+redemption,Can I place a Physical request for Instant Redemption
+redemption,"Can an Instant Redemption request once placed, be cancelled"
+redemption,What are the maximum and minimum amounts for which an Instant Redemption request can be placed
+redemption,What is Instant Redemption
+redemption,Define Redemption Price
+redemption,What is the best time to redeem mutual fund?
+redemption,What is called a redemption price
+redemption,How much money will I receive if I redeem my money today?
+redemption,What price is called a redemption price
+redemption,What is the procedure for redemption?
+redemption,What is redemption price?
+redemption,I wish to redeem the units which are in my demat account. How can I do that? 
+redemption,I wish to redeem my existing investments. Do I have to pay transaction charges?
+return, How is profit made in mutual funds? 
+return,What is a good return for a mutual fund?
+top_n,"What are the best large cap mutual funds to invest in order to get good returns?
+"
+return,What is a good turnover ratio for a mutual fund?
+return,What kind of returns should one expect from Mutual Funds?
+return,What is the current rate of return on the Systematic Investment Plan (SIP)?
+return,What is a good annual return for a mutual fund?
+return,Investing on which company fund will have a stable income and minimal risk?
+return,Which is the best mutual fund to buy for high returns?
+return,Is mutual funds profitable?
+return,What are the best long-term mutual funds to invest in?
+return,Which mutual funds will give secured monthly income?
+return,Which are the mutual funds going to be double in three years?
+performance,mutual funds above 20% annum return?
+return,Do mutual fund SIPs have compounding returns?
+return,What kind of income can I expect from a mutual fund?
+return,What is the average annual return the fund has given in the last 10 years? 
+return,How much can I earn in a mutual fund?
+return,What are Top 3 mutual fund to invest with 15–20% annual return?
+risk,Can mutual funds use leverage?
+risk,What are the types of risks?
+risk,What metrics should I use to evaluate the risk return tradeoff for a mutual fund?
+risk,Then why does the disclaimer say Mutual Funds are subject to market risk?
+risk,Are all Mutual Funds risky?
+risk,Does long term mean less risk?
+risk,Investing on which company fund will have a stable income and minimal risk?
+risk,What are the risk factors in a mutual fund investment?
+risk,Why are mutual funds subject to market risk?
+risk,What am I supposed to do when my mutual funds are going negative?
+risk,What are the less risky mutual funds?
+risk,Which  are the best diversified mutual funds?
+risk,What are the risks of a mutual fund?
+risk,What does standard deviation measure  Mutual Fund?
+salutation,Hi
+salutation,Hello!!
+salutation,Good morning
+salutation,Good afternoon
+salutation,Hi ! Hi are you!!
+salutation,Hola
+salutation,namaste
+salutation,namastey
+salutation,hiiiii
+salutation,gd mrng
+salutation,gd aftrn
+salutation,hlo
+salutation,hey
+salutation,hey there!!
+salutation,hi how are you
+top_n,What are the best mutual funds for investing in the aerospace sector?
+top_n,Should I invest in Infrastructure funds?
+top_n,What are some of the most common mutual funds that give exposure to the food and beverage sector?
+top_n,What are the most popular mutual funds that invest primarily in the insurance sector?
+top_n,What are the most popular mutual funds that invest in the automotive sector?
+top_n,What are some of the most popular mutual funds for investing in the metals and mining sector?
+define,What are sector funds
+define,Is it good to buy pharma sector mutual fund?
+define,Define Sector Funds
+define,What is an sector fund
+define,What is a sector fund
+sip,What are the best mutual fund schemes in India through the SIP route?
+sip,What is Flex SIP? 
+sip,What's a good long-term SIP mutual fund plan
+sip,Is it good to invest in SIP for short term (1 year)?
+sip,Which are the valid PDC locations for SIP?
+sip,Are there any investment limits under Flex SIP? 
+sip,How can I register for the Systematic Investment Plan (SIP) facility
+sip,Are SIP mutual funds safe investments in the long term?
+sip,What is mutual fund & SIP?
+sip,How many types of SIP are there in a mutual fund?
+sip,What is the current rate of return on the Systematic Investment Plan (SIP)?
+sip,How should I start investing in mutual funds through SIPs?
+sip,How do I start/stop a SIP? What happens if I miss an instalment?
+sip,What is Century SIP in mutual funds?
+sip,What is SIP?
+sip,How do I register for SIP
+sip,"Is it safe to invest in a mutual fund, especially in SIP?"
+sip,"What type of insurance is provided in SIP?
+
+
+"
+sip,"How much insurance amount do I get from a SIP insured fund?
+"
+sip,What is a Systematic Investment Plan?
+sip,How can I register for the Systematic Investment Plan (SIP) facility?
+other,"When will the investor get certificate or statement of account after investing in a mutual
+fund?"
+define,What are short term funds
+define,Define short term funds
+define,Explain short term funds
+define,What are the features of a short term funds
+define,When do I invest in a Short Term Fund
+define,what is short term fund
+define,short term fund
+define,what is STIF
+define,what are STIF
+define,Explain STIF
+define,Define STIF
+STP,What is Systematic Transfer Plan (STP)
+STP,What are STPs
+STP,What is an STP
+STP,What is the benefit of an STP
+choose,Help me pick a mutual Fund
+choose,Help me choose a Fund
+swp,What is Systematic Withdrawal Plan (SWP) and how does it work?
+swp,What is Systematic Withdrawal Plan?
+define,What is Tax Saving Fund
+define,Explain Tax Saving Funds
+define,What is an ELSS
+define,Why invest in ELSS
+define,Define Tax Saving Funds
+other,How is the return in the ELSS compared to other schemes 
+ELSS,How is the ELSS offered by MFs?
+itax,How are you taxed after selling a mutual fund ?
+top_n,Best tax saving mutual funds in India?
+top_n,What are the three best tax-saving mutual funds?
+ELSS,Do all mutual funds give tax benefits?
+define,Equity linked savings scheme
+define,What are tax saving funds
+define,Define Tax saving Funds
+define,What is an tax saving fund
+define,How are you taxed after selling a mutual fund ?
+define,What is a tax saving fund
+define,What are elss funds
+define, Define Elss Funds
+define,What is an elss fund
+define,What is a elss fund
+define, Define Elss Funds?
+define,What is an elss fund?
+define,What are elss funds?
+define,What is a elss fund?
+define,What are tax saving funds?
+define,Define Tax saving Funds?
+define,What is an tax saving fund?
+define,What is a tax saving fund?
+define,What are the Tax Saving Options?
+top_n,Which are the top ten mutual funds ?
+top_n,What are the top 5 funds for ELSS
+top_n,List the top 5 ELSS funds
+top_n,Suggest top 5 ELSS Funds
+top_n,Which are the top 5 ELSS funds
+top_n,What are the 5 best funds for ELSS
+top_n,List the 5 best ELSS funds
+top_n,Suggest 5 best ELSS Funds
+top_n,Which are the 5 best ELSS funds
+top_n,What are the 5 top performing funds for ELSS
+top_n,List the 5 top performing ELSS funds
+top_n,Suggest 5 top performing ELSS Funds
+top_n,Which are the 5 top performing ELSS funds
+top_n,What are the 5 best funds for Tax Saving/Saver
+top_n,List the 5 best Tax Saving/Saver funds
+top_n,Suggest 5 best Tax Saving/Saver Funds
+top_n,Which are the 5 best Tax Saving/Saver funds
+top_n,What are top 5 funds for 80C Deductions
+top_n,List top 5 funds for 80C Deductions
+top_n,Suggest top 5 funds for 80C Deductions
+top_n,Which are the top 5 funds for 80C Deductions
+top_n,What are top 5 funds for Deduction under 80C
+top_n,List top 5 funds for Deduction under 80C
+top_n,Suggest top 5 funds for Deduction under 80C
+top_n,Which are the top 5 funds for Deduction under 80C
+top_n,Recommend top 5 ELSS Funds
+top_n,Recommend 5 best ELSS Funds
+top_n,Recommend 5 best Tax Saving/Saver Funds
+top_n,Recommend 5 top performing ELSS Funds
+top_n,Recommend top 5 funds for 80C Deductions
+top_n,Recommend top 5 funds for Deduction under 80C
+top_n,Which is the best mutual fund to invest in nowadays?
+top_n,"Which is the best mutual fund to start with, presently?"
+top_n,Which are the top 5 funds for investing in mutual funds?
+top_n,What are the best mutual funds to invest in 2018?
+top_n,Which small cap mutual fund in India is worth investing in? 
+top_n,What are the five best mutual funds in 2018?
+typesMF,What are the different types of mutual fund schemes?
+typesMF,What are sector specific funds/schemes?
+typesMF,What are Tax Saving Schemes?
+typesMF,What is a Fund of Funds (FoF) scheme?
+typesMF,What is a Fund of Funds scheme?
+typesMF,What are Exchange Traded Funds (ETFs)?
+intro,What is a Regular Plan?
+typesMF,How can we invest in direct plan of mutual fund?
+intro,What is a direct plan?
+typesMF,"Can a mutual fund change the nature of the scheme from the one specified in the offer
+document?"
+typesMF, What should be the criteria for choosing an ELSS offered by the different MF schemes?
+typesMF,Can Mutual Funds Only Hold Bonds?
+typesMF,Why don't mutual funds trade like stocks?
+typesMF,What happens to the value of a mutual fund when a stock splits?
+typesMF,Can a mutual fund's shares split?
+typesMF,Do hedge funds invest in mutual funds?
+typesMF,Can mutual funds invest in derivatives?
+typesMF,Can mutual funds invest in options and futures? 
+define,What are Liquid Funds?
+define,What is a Hybrid Fund?
+define,What are Equity Funds?
+typesMF,What are the best mutual funds for my retirement savings?
+typesMF,Can I invest in MF direct plan through Demat account?
+typesMF,What is an assured return scheme?
+typesMF,What is a capital protection-oriented scheme?
+choose,Is UTI Mutual Fund a good investment?
